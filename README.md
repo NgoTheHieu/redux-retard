@@ -1,6 +1,4 @@
-# CoderSchool FTW - *Unit Test with TDD integrated*
 
-Created with :blue_heart: by <a href="https://github.com/albertanguyen">Anh</a>
 
 ## Required User Stories
 
@@ -53,9 +51,6 @@ That would permanently disable this preflight check in case you want to proceed 
 
 P.S. We know this message is long but please read the steps above :-) We hope you find them helpful!</pre>
 
-## License
-
-    Copyright [2019] [Anh Nguyen]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
